@@ -1,6 +1,6 @@
 # Bean & Brew Coffee
 
-[![MIT License]()](LICENSE)
+[![MIT License](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/MIT%20License.png)](LICENSE)
 
 
 ## Table of Contents

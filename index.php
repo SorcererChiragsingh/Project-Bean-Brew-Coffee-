@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Bean & Brew Coffee</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="address-bar">Pocket -1, Dda Local Shopping Cmplx, Noida | Uttar Pradesh | 201301</div>
 
 	<?php
 		

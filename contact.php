@@ -107,7 +107,7 @@
 <body>
 
     <div class="brand">Bean & Brew Coffee</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="address-bar">Pocket -1, Dda Local Shopping Cmplx, Noida | Uttar Pradesh | 201301</div>
 
     <!-- Navigation -->
     <?php require_once 'nav.php'; ?>
@@ -128,14 +128,14 @@
                 </div>
                 <div class="col-md-4">
                     <p>Phone:
-                        <strong>123.456.7890</strong>
+                        <strong>+91 1234567890</strong>
                     </p>
                     <p>Email:
                         <strong><a href="mailto:info@Bean & Brew Coffee.com">info@Bean & Brew Coffee.com</a></strong>
                     </p>
                     <p>Address:
-                        <strong>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</strong>
+                        <strong>Pocket -1, Dda Local Shopping Cmplx, Noida
+                            <br>Noida | Uttar Pradesh | 201301</strong>
                     </p>
                 </div>
                 <div class="clearfix"></div>

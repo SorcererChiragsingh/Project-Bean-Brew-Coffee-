@@ -44,7 +44,7 @@ if (isset($_SESSION['login'])) {
 <body>
 
     <div class="brand">Bean & Brew Coffee</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="address-bar">Pocket -1, Dda Local Shopping Cmplx, Noida | Uttar Pradesh | 201301</div>
 
     <!-- Navigation -->
     <?php require_once 'nav.php'; ?>
@@ -174,7 +174,7 @@ if (isset($_SESSION['login'])) {
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <p>Copyright &copy; Bean & Brew Coffee 2016</p>
+                    <p>Copyright &copy; Bean & Brew Coffee 2023</p>
                 </div>
             </div>
         </div>

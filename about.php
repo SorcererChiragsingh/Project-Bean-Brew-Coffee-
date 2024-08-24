@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Bean & Brew Coffee</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+    <div class="address-bar">Pocket -1, Dda Local Shopping Cmplx, Noida | Uttar Pradesh | 201301</div>
 
     <!-- Navigation -->
     <?php require_once 'nav.php'; ?>
@@ -53,7 +53,7 @@
                     <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ooUAVHJAcyk' frameborder='0' allowfullscreen></iframe></div>
                 </div>
                 <div class="col-md-6">
-                    <p>Bean & Brew Coffee launched in 2000, in the heart of California. Our mission is simple. We want to teach coffee drinkers all over the world how to make the perfect blend!
+                    <p>Bean & Brew Coffee launched in 2023, in the heart of California. Our mission is simple. We want to teach coffee drinkers all over the world how to make the perfect blend!
 
 Our Coffee experts have a lifelong passion for coffee. They are internationally traveled and have experienced many varieties.</p>
                 </div>

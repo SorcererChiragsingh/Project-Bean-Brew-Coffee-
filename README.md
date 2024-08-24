@@ -1,9 +1,17 @@
 <h1 align="center">Bean & Brew Coffee</h1>
+
 <div align="center">
-<h2 align="center">[![MIT License](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/MIT%20License.png)](LICENSE) </h2>
-<div align="center">
+
+<h2 align="center">
+  <a href="LICENSE">
+    <img src="https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/MIT%20License.png" alt="MIT License" />
+  </a>
+</h2>
+
 <p>The "Bean & Brew Coffee" is a blogging web application project created using HTML, CSS and JavaScript.</p>
+
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
+
 </div> <br/><br/>
 
 ## Table of Contents

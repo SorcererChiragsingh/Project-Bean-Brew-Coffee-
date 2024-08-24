@@ -7,13 +7,9 @@
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
+- [Road Map](#roadmap)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -31,21 +27,35 @@ This blog, which has been running for a while, starts from the premise that coff
 - **Feature 2:** The blogging web application offers a platform for users to explore, share, and discuss their passion for coffee, from brewing techniques to coffee bean reviews and café recommendations.
 - **Feature 3:** The future scope of the "Bean & Brew Coffee" project includes community building, multimedia content support, e-commerce integration, and the implementation of machine learning and AI techniques for advanced user recommendations.
 
-## Installation
-
-Step-by-step instructions on how to get a development environment running.
-
-```bash
-# Clone the repository
-git clone https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-.git
-
-# Navigate to the project directory
-cd yourproject
-
-# Install dependencies
-npm install
-
-# Start the application
-npm start
+## Screenshots
+- 
+- 
+- 
+- 
+- 
 
 
+## Tech Stack
+
+- Frontend:PHP, JAVASCRIPT, BOOTSTRAP
+- Backend:MySQL
+- Database:DBMS
+- Deployment:XAAMP
+
+
+## Roadmap
+
+ - Social network Integration
+ - Implement payment gateway
+ - Improve mobile responsiveness
+ - Analytics and tracking
+
+## License
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+
+- I would like to extend my sincere gratitude to [YouAccel Training] [From UDEMY](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=SKILLS4SALEA#instructor-1) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
+- You can view the certificate of completion [here]().
+- Thank you once again for your mentorship and dedication!

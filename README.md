@@ -21,6 +21,7 @@
 - [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Road Map](#roadmap)
+- [Report Issues](#report-issues)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -48,8 +49,8 @@ This blog, which has been running for a while, starts from the premise that coff
 
 ## Tech Stack
 
-- Frontend:PHP, JAVASCRIPT, BOOTSTRAP
-- Backend:MySQL
+- Frontend: HTML, CSS, JAVASCRIPT, BOOTSTRAP
+- Backend:MySQL, PHP
 - Database:DBMS
 - Deployment:XAAMP
 
@@ -61,6 +62,10 @@ This blog, which has been running for a while, starts from the premise that coff
  - Improve mobile responsiveness
  - Analytics and tracking
 
+ ## Report Issues
+- You can report issues on this project using Github issue.
+- You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
 ## License
 
 - This project is licensed under the MIT License - see the [LICENSE](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-?tab=MIT-1-ov-file) file for details.
@@ -68,7 +73,7 @@ This blog, which has been running for a while, starts from the premise that coff
 
 ## Acknowledgements
 
-- I would like to extend my sincere gratitude to [YouAccel Training] [From UDEMY](https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?couponCode=SKILLS4SALEA#instructor-1) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
+- I would like to extend my sincere gratitude to [YouAccel Training] [From UDEMY](https://www.udemy.com/user/youaccel/) for their invaluable guidance and support throughout this project. Their expertise and encouragement have been instrumental in the successful completion of this work.
 - You can view the certificate of completion [here](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/Completion%20Certificate.PNG).
 - Thank you once again for your mentorship and dedication!
 - A passion project by [Chirag](www.linkedin.com/in/chirag-singh-148993279)

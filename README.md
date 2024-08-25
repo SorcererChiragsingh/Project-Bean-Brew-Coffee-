@@ -40,11 +40,21 @@ This blog, which has been running for a while, starts from the premise that coff
 - **Feature 3:** The future scope of the "Bean & Brew Coffee" project includes community building, multimedia content support, e-commerce integration, and the implementation of machine learning and AI techniques for advanced user recommendations.
 
 ## Screenshots
-- 
-- 
-- 
-- 
-- 
+
+### Home Page
+![]()
+
+### About Page
+![]()
+
+### Register Pages
+![]()
+
+### Contact Page
+![]()
+
+### User Login Page
+![]()
 
 
 ## Tech Stack

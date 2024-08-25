@@ -42,19 +42,19 @@ This blog, which has been running for a while, starts from the premise that coff
 ## Screenshots
 
 ### Home Page
-![]()
+![](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/HomePage.png)
 
 ### About Page
-![]()
+![](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/AboutPage.png)
 
 ### Register Pages
-![]()
+![](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/RegisterationPage.png)
 
 ### Contact Page
-![]()
+![](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/ContactPage.png)
 
 ### User Login Page
-![]()
+![](https://github.com/SorcererChiragsingh/Project-Bean-Brew-Coffee-/blob/main/img/UserLoginPage.png)
 
 
 ## Tech Stack

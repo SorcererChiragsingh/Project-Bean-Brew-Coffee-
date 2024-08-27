@@ -8,7 +8,7 @@
   </a>
 </h2>
 
-<p>The "Bean & Brew Coffee" is a blogging web application project created using HTML, CSS and JavaScript.</p>
+<p>The "Bean & Brew Coffee" is a blogging web application project created using PHP, HTML, CSS and JavaScript.</p>
 
 <a href="" target="_blank"><strong>➥ Live Demo</strong></a>
 
